@@ -62,13 +62,12 @@
 .tracks-text{
     margin: 5px;
     display: flex;
-    align-items: flex-start;
     text-align: center;
     flex-direction: column;
 }
 
 .tracks-text a{
-    color: rgb(14, 14, 13);
+    color: rgb(0, 0, 0);
     font-size: 16px;
     font-family: georgia;
     font-weight: bold;
